@@ -1,0 +1,12 @@
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/port.c
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lptim\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+lptim\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+lptim\port.o: ../Inc/FreeRTOSConfig.h
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+lptim\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
